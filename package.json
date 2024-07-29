@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-native": "0.74.3"
+  },
+  "packageManager": "yarn@3.6.4"
+}
